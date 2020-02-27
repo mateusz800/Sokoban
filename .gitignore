@@ -1,0 +1,13 @@
+*.pdf
+Debug
+Release
+x64
+**/*.zip
+**/*.rar
+comp*
+libSDL*
+szablon2vs15*
+.vs
+SDL*
+szablon*
+sokoban.sln
